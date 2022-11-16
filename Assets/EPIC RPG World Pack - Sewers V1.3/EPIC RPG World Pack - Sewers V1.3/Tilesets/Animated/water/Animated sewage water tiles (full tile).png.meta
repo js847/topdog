@@ -1,0 +1,922 @@
+fileFormatVersion: 2
+guid: 47b7ca75ffa0f89489dc1dbdb0265594
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6035818197280858737
+    second: Animated sewage water tiles (full tile)_0
+  - first:
+      213: -163405097283341068
+    second: Animated sewage water tiles (full tile)_1
+  - first:
+      213: -3726110233182242941
+    second: Animated sewage water tiles (full tile)_2
+  - first:
+      213: -661837639965620099
+    second: Animated sewage water tiles (full tile)_3
+  - first:
+      213: 2468039362334445185
+    second: Animated sewage water tiles (full tile)_4
+  - first:
+      213: -4081380203819154129
+    second: Animated sewage water tiles (full tile)_5
+  - first:
+      213: -1451588334865944019
+    second: Animated sewage water tiles (full tile)_6
+  - first:
+      213: 6769536092235076342
+    second: Animated sewage water tiles (full tile)_7
+  - first:
+      213: 6170173894548053356
+    second: Animated sewage water tiles (full tile)_8
+  - first:
+      213: -6169588366012523823
+    second: Animated sewage water tiles (full tile)_9
+  - first:
+      213: -674553636891048860
+    second: Animated sewage water tiles (full tile)_10
+  - first:
+      213: -568966591902372502
+    second: Animated sewage water tiles (full tile)_11
+  - first:
+      213: -7414837375366767416
+    second: Animated sewage water tiles (full tile)_12
+  - first:
+      213: 5995825166202791284
+    second: Animated sewage water tiles (full tile)_13
+  - first:
+      213: -4529923209878985473
+    second: Animated sewage water tiles (full tile)_14
+  - first:
+      213: -6171541806248399286
+    second: Animated sewage water tiles (full tile)_15
+  - first:
+      213: 2658965223712392214
+    second: Animated sewage water tiles (full tile)_16
+  - first:
+      213: 2232848696350428673
+    second: Animated sewage water tiles (full tile)_17
+  - first:
+      213: 3473675329638623286
+    second: Animated sewage water tiles (full tile)_18
+  - first:
+      213: 5440654031567726250
+    second: Animated sewage water tiles (full tile)_19
+  - first:
+      213: -2569566747152548598
+    second: Animated sewage water tiles (full tile)_20
+  - first:
+      213: 7043779979038413180
+    second: Animated sewage water tiles (full tile)_21
+  - first:
+      213: -3230544985264156239
+    second: Animated sewage water tiles (full tile)_22
+  - first:
+      213: -4781470850833314321
+    second: Animated sewage water tiles (full tile)_23
+  - first:
+      213: 4155519878595371688
+    second: Animated sewage water tiles (full tile)_24
+  - first:
+      213: -5437149444876060067
+    second: Animated sewage water tiles (full tile)_25
+  - first:
+      213: 6639073740162961847
+    second: Animated sewage water tiles (full tile)_26
+  - first:
+      213: 742883083577901681
+    second: Animated sewage water tiles (full tile)_27
+  - first:
+      213: 1553404520084482396
+    second: Animated sewage water tiles (full tile)_28
+  - first:
+      213: -1504767410415248351
+    second: Animated sewage water tiles (full tile)_29
+  - first:
+      213: -4477432422116547337
+    second: Animated sewage water tiles (full tile)_30
+  - first:
+      213: 6796162536578594038
+    second: Animated sewage water tiles (full tile)_31
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172a3c9dba883c350800000000000000
+      internalID: 6035818197280858737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f430f50ee77bbdf0800000000000000
+      internalID: -163405097283341068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38779351c723a4cc0800000000000000
+      internalID: -3726110233182242941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78cdda4c2ea0d6f0800000000000000
+      internalID: -661837639965620099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18e40ab49bc304220800000000000000
+      internalID: 2468039362334445185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f254c0624560c57c0800000000000000
+      internalID: -4081380203819154129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22f63ca91ceadbe0800000000000000
+      internalID: -1451588334865944019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f29bd7953932fd50800000000000000
+      internalID: 6769536092235076342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6ddce2577cd0a550800000000000000
+      internalID: 6170173894548053356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dad079a118316aa0800000000000000
+      internalID: -6169588366012523823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_10
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 464492b8a0183a6f0800000000000000
+      internalID: -674553636891048860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_11
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d289036ef9a18f0800000000000000
+      internalID: -568966591902372502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_12
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cc59fd41b4391990800000000000000
+      internalID: -7414837375366767416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4756ddea833753350800000000000000
+      internalID: 5995825166202791284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_14
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff4ad5757da7221c0800000000000000
+      internalID: -4529923209878985473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_15
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 16
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e671aec674a5aa0800000000000000
+      internalID: -6171541806248399286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6148e7d78ca86e420800000000000000
+      internalID: 2658965223712392214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_17
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e49272f0cacfe10800000000000000
+      internalID: 2232848696350428673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_18
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 638e528de49f43030800000000000000
+      internalID: 3473675329638623286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_19
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa624611406118b40800000000000000
+      internalID: 5440654031567726250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_20
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0df05958a0175cd0800000000000000
+      internalID: -2569566747152548598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_21
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71d796429880c160800000000000000
+      internalID: 7043779979038413180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_22
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b1196ab37cca23d0800000000000000
+      internalID: -3230544985264156239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_23
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fed0230389dc4adb0800000000000000
+      internalID: -4781470850833314321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_24
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a260cc005f5ba930800000000000000
+      internalID: 4155519878595371688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_25
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a337b136d5b84b0800000000000000
+      internalID: -5437149444876060067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b19900346ab22c50800000000000000
+      internalID: 6639073740162961847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_27
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 172ce428a304f4a00800000000000000
+      internalID: 742883083577901681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_28
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c592f144e2dce8510800000000000000
+      internalID: 1553404520084482396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_29
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c5d98430efd1be0800000000000000
+      internalID: -1504767410415248351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_30
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f42ded3fe6fcd1c0800000000000000
+      internalID: -4477432422116547337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Animated sewage water tiles (full tile)_31
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4b594c1d1d05e50800000000000000
+      internalID: 6796162536578594038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 093f8481acafe22498ab7cdcbc4a20fb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Animated sewage water tiles (full tile)_5: -4081380203819154129
+      Animated sewage water tiles (full tile)_4: 2468039362334445185
+      Animated sewage water tiles (full tile)_12: -7414837375366767416
+      Animated sewage water tiles (full tile)_25: -5437149444876060067
+      Animated sewage water tiles (full tile)_29: -1504767410415248351
+      Animated sewage water tiles (full tile)_3: -661837639965620099
+      Animated sewage water tiles (full tile)_2: -3726110233182242941
+      Animated sewage water tiles (full tile)_15: -6171541806248399286
+      Animated sewage water tiles (full tile)_23: -4781470850833314321
+      Animated sewage water tiles (full tile)_26: 6639073740162961847
+      Animated sewage water tiles (full tile)_28: 1553404520084482396
+      Animated sewage water tiles (full tile)_6: -1451588334865944019
+      Animated sewage water tiles (full tile)_21: 7043779979038413180
+      Animated sewage water tiles (full tile)_8: 6170173894548053356
+      Animated sewage water tiles (full tile)_17: 2232848696350428673
+      Animated sewage water tiles (full tile)_24: 4155519878595371688
+      Animated sewage water tiles (full tile)_18: 3473675329638623286
+      Animated sewage water tiles (full tile)_0: 6035818197280858737
+      Animated sewage water tiles (full tile)_19: 5440654031567726250
+      Animated sewage water tiles (full tile)_1: -163405097283341068
+      Animated sewage water tiles (full tile)_27: 742883083577901681
+      Animated sewage water tiles (full tile)_22: -3230544985264156239
+      Animated sewage water tiles (full tile)_30: -4477432422116547337
+      Animated sewage water tiles (full tile)_7: 6769536092235076342
+      Animated sewage water tiles (full tile)_9: -6169588366012523823
+      Animated sewage water tiles (full tile)_13: 5995825166202791284
+      Animated sewage water tiles (full tile)_10: -674553636891048860
+      Animated sewage water tiles (full tile)_14: -4529923209878985473
+      Animated sewage water tiles (full tile)_20: -2569566747152548598
+      Animated sewage water tiles (full tile)_16: 2658965223712392214
+      Animated sewage water tiles (full tile)_11: -568966591902372502
+      Animated sewage water tiles (full tile)_31: 6796162536578594038
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

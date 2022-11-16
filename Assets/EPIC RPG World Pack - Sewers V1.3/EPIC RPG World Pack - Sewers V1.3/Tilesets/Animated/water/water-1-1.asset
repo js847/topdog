@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: water-1-1
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 2232848696350428673, guid: 47b7ca75ffa0f89489dc1dbdb0265594, type: 3}
+  - {fileID: 5440654031567726250, guid: 47b7ca75ffa0f89489dc1dbdb0265594, type: 3}
+  - {fileID: 7043779979038413180, guid: 47b7ca75ffa0f89489dc1dbdb0265594, type: 3}
+  - {fileID: -4781470850833314321, guid: 47b7ca75ffa0f89489dc1dbdb0265594, type: 3}
+  - {fileID: -5437149444876060067, guid: 47b7ca75ffa0f89489dc1dbdb0265594, type: 3}
+  - {fileID: 742883083577901681, guid: 47b7ca75ffa0f89489dc1dbdb0265594, type: 3}
+  - {fileID: -1504767410415248351, guid: 47b7ca75ffa0f89489dc1dbdb0265594, type: 3}
+  - {fileID: 6796162536578594038, guid: 47b7ca75ffa0f89489dc1dbdb0265594, type: 3}
+  m_MinSpeed: 1
+  m_MaxSpeed: 1
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 1

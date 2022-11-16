@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: water-corner-a-27
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 8579503819914820405, guid: cd5d95d4359d2604eb8da5a56ae484a7, type: 3}
+  - {fileID: -1089519874359551326, guid: cd5d95d4359d2604eb8da5a56ae484a7, type: 3}
+  - {fileID: 4549252432165988976, guid: cd5d95d4359d2604eb8da5a56ae484a7, type: 3}
+  - {fileID: -5933902960831690208, guid: cd5d95d4359d2604eb8da5a56ae484a7, type: 3}
+  - {fileID: -212043469036130209, guid: cd5d95d4359d2604eb8da5a56ae484a7, type: 3}
+  - {fileID: 1788644661014974036, guid: cd5d95d4359d2604eb8da5a56ae484a7, type: 3}
+  - {fileID: -4914470718329451793, guid: cd5d95d4359d2604eb8da5a56ae484a7, type: 3}
+  - {fileID: 2079117076394093891, guid: cd5d95d4359d2604eb8da5a56ae484a7, type: 3}
+  m_MinSpeed: 5
+  m_MaxSpeed: 5
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
