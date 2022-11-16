@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: wall-water-0
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 1512966821, guid: 12203af87e459494b8f84e4914002938, type: 3}
+  - {fileID: -1377310057, guid: 12203af87e459494b8f84e4914002938, type: 3}
+  - {fileID: 1998755393, guid: 12203af87e459494b8f84e4914002938, type: 3}
+  - {fileID: -877188247, guid: 12203af87e459494b8f84e4914002938, type: 3}
+  - {fileID: -1192858022, guid: 12203af87e459494b8f84e4914002938, type: 3}
+  - {fileID: -1354924316, guid: 12203af87e459494b8f84e4914002938, type: 3}
+  - {fileID: -540158367, guid: 12203af87e459494b8f84e4914002938, type: 3}
+  - {fileID: -1623743587, guid: 12203af87e459494b8f84e4914002938, type: 3}
+  m_MinSpeed: 5
+  m_MaxSpeed: 5
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0

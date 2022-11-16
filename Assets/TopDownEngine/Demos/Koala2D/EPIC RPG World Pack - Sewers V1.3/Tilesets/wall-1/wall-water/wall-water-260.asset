@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: wall-water-0
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -178120548, guid: a4ad5bd2632f720418b0addb13a780a6, type: 3}
+  - {fileID: -1653930034, guid: a4ad5bd2632f720418b0addb13a780a6, type: 3}
+  - {fileID: 916942450, guid: a4ad5bd2632f720418b0addb13a780a6, type: 3}
+  - {fileID: -795275929, guid: a4ad5bd2632f720418b0addb13a780a6, type: 3}
+  - {fileID: -1440113488, guid: a4ad5bd2632f720418b0addb13a780a6, type: 3}
+  - {fileID: -1085351088, guid: a4ad5bd2632f720418b0addb13a780a6, type: 3}
+  - {fileID: 1819879433, guid: a4ad5bd2632f720418b0addb13a780a6, type: 3}
+  - {fileID: 181146285, guid: a4ad5bd2632f720418b0addb13a780a6, type: 3}
+  m_MinSpeed: 5
+  m_MaxSpeed: 5
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0

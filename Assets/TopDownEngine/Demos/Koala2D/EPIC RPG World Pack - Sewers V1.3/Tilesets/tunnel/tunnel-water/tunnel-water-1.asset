@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: tunnel-water-0
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 1868189071, guid: bb40266eb99cc5b4a8508f89a94b2348, type: 3}
+  - {fileID: -683313478, guid: bb40266eb99cc5b4a8508f89a94b2348, type: 3}
+  - {fileID: 1648365714, guid: bb40266eb99cc5b4a8508f89a94b2348, type: 3}
+  - {fileID: 1215343875, guid: bb40266eb99cc5b4a8508f89a94b2348, type: 3}
+  - {fileID: -1821265295, guid: bb40266eb99cc5b4a8508f89a94b2348, type: 3}
+  - {fileID: -1445437574, guid: bb40266eb99cc5b4a8508f89a94b2348, type: 3}
+  - {fileID: 2103449193, guid: bb40266eb99cc5b4a8508f89a94b2348, type: 3}
+  - {fileID: -1346078466, guid: bb40266eb99cc5b4a8508f89a94b2348, type: 3}
+  m_MinSpeed: 5
+  m_MaxSpeed: 5
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0

@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: transition-2-water-a-0
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: 1551181338, guid: c364ab39cec1fbb4096e049974145453, type: 3}
+  - {fileID: -632823414, guid: c364ab39cec1fbb4096e049974145453, type: 3}
+  - {fileID: 1687474264, guid: c364ab39cec1fbb4096e049974145453, type: 3}
+  - {fileID: 1061996637, guid: c364ab39cec1fbb4096e049974145453, type: 3}
+  - {fileID: -298036490, guid: c364ab39cec1fbb4096e049974145453, type: 3}
+  - {fileID: 722256499, guid: c364ab39cec1fbb4096e049974145453, type: 3}
+  - {fileID: -1500587201, guid: c364ab39cec1fbb4096e049974145453, type: 3}
+  - {fileID: 1957313538, guid: c364ab39cec1fbb4096e049974145453, type: 3}
+  m_MinSpeed: 5
+  m_MaxSpeed: 5
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
